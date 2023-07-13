@@ -505,13 +505,13 @@ h6 {
 
 .nav .nav-link {
   display: block;
-  padding: 0.5rem 1rem 0.5rem 1rem;
-}
-
-.footer {
-  padding: var(--footer-padding);
+  padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
+}
+
+.footer {
+  padding: var(--footer-padding);
 }
