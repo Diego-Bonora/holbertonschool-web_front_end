@@ -463,10 +463,6 @@ h6 {
   color: var(--section-title-color);
 }
 
-.footer {
-  padding: var(--footer-padding);
-}
-
 .section-tagline {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
@@ -478,4 +474,8 @@ h6 {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footer {
+  padding: var(--footer-padding);
 }
