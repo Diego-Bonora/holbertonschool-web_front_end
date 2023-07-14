@@ -696,7 +696,7 @@ ul.row {
   z-index: 1;
 }
 
-.card-work:hover .card-inner:target {
+.card-work:hover .card-inner {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -723,6 +723,6 @@ ul.row {
   content: "";
 }
 
-.card-work:hover .card-title:target {
+.card-work:hover .card-title {
   opacity: 1;
 }
